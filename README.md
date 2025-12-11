@@ -1,6 +1,6 @@
 # Fruity Loops - Digital Audio Workstation
 
-<img src="https://www.pngfind.com/pngs/m/4-49885_fl-studio-logo-png-transparent-png.png" width="200" alt="App icon" align="left"/>
+<img src="https://static.wikia.nocookie.net/logopedia/images/2/2b/FL_Studio_2014.png/revision/latest?cb=20230913152236" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>Fruity Loops for macOS</h3>
